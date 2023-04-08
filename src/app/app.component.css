@@ -1,0 +1,4 @@
+/*Displaying Error when click(touched) without (valid)any thing*/
+input.ng-invalid.ng-touched,select.ng-invalid.ng-touched{
+border:1px solid red;
+}
